@@ -1,4 +1,4 @@
-Jogo da Velha com IA usando Minimax
+**Jogo da Velha com IA usando Minimax
 
 Descrição do Projeto:
 
