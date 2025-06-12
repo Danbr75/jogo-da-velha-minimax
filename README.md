@@ -2,14 +2,14 @@
 
 ### Descrição do Projeto:
 
-Esse projeto é um clássico Jogo da Velha (tic-tac-toe) jogado no terminal, onde você enfrenta um computador que usa o algoritmo Minimax para decidir a melhor jogada possível. O jogo é simples, mas o Minimax garante que o computador jogue de forma ótima, ou seja, ele nunca perde!
+Esse projeto é um clássico Jogo da Velha (tic-tac-toe) jogado no terminal, onde você enfrenta um computador que usa o algoritmo `Minimax` para decidir a melhor jogada possível. O jogo é simples, mas o Minimax garante que o computador jogue de forma ótima, ou seja, ele nunca perde!
 
 ## Como funciona o jogo?
 - O tabuleiro é uma lista simples de 9 posições, representando um grid 3x3.
 
-- Você joga com o símbolo X.
+- Você joga com o símbolo `X`.
 
-- O computador joga com o símbolo O.
+- O computador joga com o símbolo `O`.
 
 - Você faz a jogada escolhendo a posição pelo número (0 a 8).
 
@@ -19,7 +19,7 @@ Esse projeto é um clássico Jogo da Velha (tic-tac-toe) jogado no terminal, ond
 
 ## Estrutura do código
 - Representação do tabuleiro
-O tabuleiro é uma lista com 9 espaços vazios (" "), que vão sendo preenchidos com "X" ou "O" conforme as jogadas.
+O tabuleiro é uma lista com 9 espaços vazios (" "), que vão sendo preenchidos com `"X"` ou `"O"` conforme as jogadas.
 
 - Exibir o tabuleiro na tela
 Função que imprime o tabuleiro no terminal em 3 linhas e 3 colunas, deixando fácil para o usuário visualizar o estado atual do jogo.
