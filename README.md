@@ -1,10 +1,10 @@
-**Jogo da Velha com IA usando Minimax
+# Jogo da Velha com IA usando Minimax
 
 Descrição do Projeto:
 
 Esse projeto é um clássico Jogo da Velha (tic-tac-toe) jogado no terminal, onde você enfrenta um computador que usa o algoritmo Minimax para decidir a melhor jogada possível. O jogo é simples, mas o Minimax garante que o computador jogue de forma ótima, ou seja, ele nunca perde!
 
-Como funciona o jogo?
+## Como funciona o jogo?
 O tabuleiro é uma lista simples de 9 posições, representando um grid 3x3.
 
 Você joga com o símbolo X.
@@ -17,7 +17,7 @@ O computador calcula a melhor jogada com base no algoritmo Minimax e responde na
 
 O jogo termina quando alguém vence ou dá empate.
 
-Estrutura do código
+## Estrutura do código
 1. Representação do tabuleiro
 O tabuleiro é uma lista com 9 espaços vazios (" "), que vão sendo preenchidos com "X" ou "O" conforme as jogadas.
 
